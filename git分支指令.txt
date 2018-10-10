@@ -5,3 +5,5 @@ git branch dev （开发分支名）创建分支
 git branch -d dev 删除分支
 
 git checkout dev 切换分支名
+
+git merge 分支名； 合并
