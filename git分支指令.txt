@@ -7,3 +7,5 @@ git branch -d dev 删除分支
 git checkout dev 切换分支名
 
 git merge 分支名； 合并
+
+git clone 路径；从无到有，从远程仓库=》本地仓库
